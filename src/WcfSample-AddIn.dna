@@ -1,0 +1,15 @@
+<DnaLibrary Name="WcfSample Add-In" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="AddinX.Sample.WcfSample.dll" LoadFromBytes="true" Pack="true" />
+
+  <Reference Path="AddinX.Bootstrap.Autofac.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="AddinX.Bootstrap.Contract.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="AddinX.Ribbon.Contract.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="AddinX.Ribbon.ExcelDna.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="AddinX.Ribbon.Implementation.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="AddinX.Configuration.Implementation.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="AddinX.Configuration.Contract.dll" LoadFromBytes="true" Pack="true" />
+
+  <Reference Path="Service.Contract.dll" LoadFromBytes="true" Pack="true" />
+  <Reference Path="Autofac.dll" LoadFromBytes="true" Pack="true" />
+  
+</DnaLibrary>
